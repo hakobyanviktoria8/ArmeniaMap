@@ -18,7 +18,7 @@ body {
     height: 60px;
     background-color: #8a8b92;
 }
-#input{
+#searchInput{
     width: 80%;
     background: transparent;
     border: none;
@@ -28,7 +28,7 @@ body {
     color: white;
     line-height: 60px;
 }
-#searchbtn{
+#searchBotton{
     top: 18px;
     float: right;
     color: white;
